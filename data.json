@@ -1,0 +1,73 @@
+{
+  "1ano": [
+    {
+      "topico": "Introdução à Física",
+      "materiais": [
+        {
+          "nome": "Apresentação - O que é Física",
+          "tipo": "PPTX",
+          "link": "arquivos/1ano/introducao/apresentacao.pptx"
+        },
+        {
+          "nome": "Guia de Estudos - Unidades de Medida",
+          "tipo": "PDF",
+          "link": "arquivos/1ano/introducao/guia_medidas.pdf"
+        }
+      ]
+    },
+    {
+      "topico": "Cinemática",
+      "materiais": [
+        {
+          "nome": "Apostila - Movimento Uniforme",
+          "tipo": "PDF",
+          "link": "arquivos/1ano/cinematica/movimento_uniforme.pdf"
+        },
+        {
+          "nome": "Exercícios Resolvidos - Queda Livre",
+          "tipo": "DOCX",
+          "link": "arquivos/1ano/cinematica/queda_livre.docx"
+        },
+        {
+          "nome": "Simulação - Lançamento de Projéteis",
+          "tipo": "ZIP",
+          "link": "arquivos/1ano/cinematica/simulacao_lancamento.zip"
+        }
+      ]
+    }
+  ],
+  "2ano": [
+    {
+      "topico": "Ondulatória",
+      "materiais": [
+        {
+          "nome": "Apresentação - Características das Ondas",
+          "tipo": "PPTX",
+          "link": "arquivos/2ano/ondulatoria/apresentacao.pptx"
+        },
+        {
+          "nome": "Lista de Exercícios - Ondas Sonoras",
+          "tipo": "PDF",
+          "link": "arquivos/2ano/ondulatoria/exercicios_sonoras.pdf"
+        }
+      ]
+    }
+  ],
+  "3ano": [
+    {
+      "topico": "Física Moderna",
+      "materiais": [
+        {
+          "nome": "Texto Complementar - Teoria da Relatividade",
+          "tipo": "PDF",
+          "link": "arquivos/3ano/moderna/relatividade.pdf"
+        },
+        {
+          "nome": "Exercícios - Física Quântica",
+          "tipo": "DOCX",
+          "link": "arquivos/3ano/moderna/quantica.docx"
+        }
+      ]
+    }
+  ]
+}
